@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is my image](https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/Luxury%20Travel%20Advisor-1507819377/SeoulSouthKoreaReabirdnaiStockGettyImagesPlusGettyImages.jpg?LZFFFuLhkDPTph7nNzlrkwuDP9JLLswh&itok=yDeTrDz1)
