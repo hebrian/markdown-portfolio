@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Some Movies I Like
+* Inception
+* Forrest Gump 
+* Crazy Rich Asians
+* Us and Them
